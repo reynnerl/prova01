@@ -1,0 +1,4 @@
+1. A função <srcipt> deve está posicionado depois de <style>.
+2. A função <body> deve está posicionado depois do <head>.
+3. Deverá haver um fechamento da tag </html> no final do código.
+4. Há conteúdo dentro de <head> a partir da linha 14 até 24 que deveria está fora da tag.
