@@ -1,0 +1,3 @@
+5.a. git status: serve para verifircar qual o arquivo falta enviar, ou houve alteração
+
+5.b. git ignore: quando utilizado serve para ignorar arquivos, quando houve alterar não fazer a verificação do status
